@@ -1,0 +1,126 @@
+[[StableHLO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a901ed7e1ca2430f1325f6b42e9427756b706937"
+lazy = true
+libc = "glibc"
+llvm_version = "17"
+os = "linux"
+
+    [[StableHLO.download]]
+    sha256 = "94ad2ce7298a8f50ad6f0410d067c6de9d631fee7ac269bb7bc4adfac72587d7"
+    url = "https://github.com/JuliaBinaryWrappers/StableHLO_jll.jl/releases/download/StableHLO-v0.14.6+0/StableHLO.v0.14.6.x86_64-linux-gnu-cxx03-llvm_version+17.tar.gz"
+[[StableHLO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "97ea47e2301816db22a7d605462b05f5b79e774b"
+lazy = true
+libc = "glibc"
+llvm_version = "17"
+os = "linux"
+
+    [[StableHLO.download]]
+    sha256 = "a9b55f6dbe49056a33737dbe7479470ba35278cea77204f5f601a412ab226b6a"
+    url = "https://github.com/JuliaBinaryWrappers/StableHLO_jll.jl/releases/download/StableHLO-v0.14.6+0/StableHLO.v0.14.6.x86_64-linux-gnu-cxx11-llvm_version+17.tar.gz"
+[[StableHLO]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "08cbda25993ea1c9af3e48889088e59bf41e19da"
+lazy = true
+libc = "glibc"
+llvm_version = "17"
+os = "linux"
+
+    [[StableHLO.download]]
+    sha256 = "82bffebd95d234bf440849c2eded8cf822509cd4e43074c3bb5df06353b0e365"
+    url = "https://github.com/JuliaBinaryWrappers/StableHLO_jll.jl/releases/download/StableHLO-v0.14.6+0/StableHLO.v0.14.6.aarch64-linux-gnu-cxx03-llvm_version+17.tar.gz"
+[[StableHLO]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6dc65597e5b3bbfb3fefb14e8b0693add700c4e0"
+lazy = true
+libc = "glibc"
+llvm_version = "17"
+os = "linux"
+
+    [[StableHLO.download]]
+    sha256 = "e2af8e32b4756aa7a10bd024bac7ecaa63f463381eacae9826614963231b0fa5"
+    url = "https://github.com/JuliaBinaryWrappers/StableHLO_jll.jl/releases/download/StableHLO-v0.14.6+0/StableHLO.v0.14.6.aarch64-linux-gnu-cxx11-llvm_version+17.tar.gz"
+[[StableHLO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "50a6dad111584ba39173a186da6094ae289cb841"
+lazy = true
+libc = "musl"
+llvm_version = "17"
+os = "linux"
+
+    [[StableHLO.download]]
+    sha256 = "9a6ea9ea6c6bc5635060251671dab630fe4494c55cbb1277975eda0be6db8cd5"
+    url = "https://github.com/JuliaBinaryWrappers/StableHLO_jll.jl/releases/download/StableHLO-v0.14.6+0/StableHLO.v0.14.6.x86_64-linux-musl-cxx03-llvm_version+17.tar.gz"
+[[StableHLO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "77661daf449361f9df8a9660fba98004f11e65f0"
+lazy = true
+libc = "musl"
+llvm_version = "17"
+os = "linux"
+
+    [[StableHLO.download]]
+    sha256 = "401ce4072c3a0b73f24dd95032847ba142a12f4948e18dc4d5613c5086493423"
+    url = "https://github.com/JuliaBinaryWrappers/StableHLO_jll.jl/releases/download/StableHLO-v0.14.6+0/StableHLO.v0.14.6.x86_64-linux-musl-cxx11-llvm_version+17.tar.gz"
+[[StableHLO]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "76781af9c0753aa1b5bac39f1280c6ca5d43ece9"
+lazy = true
+libc = "musl"
+llvm_version = "17"
+os = "linux"
+
+    [[StableHLO.download]]
+    sha256 = "be902e3f6bccf35ce01e9ccfcd5d8d6d0c989e85ef6d0c2e02436b92a8b68ed3"
+    url = "https://github.com/JuliaBinaryWrappers/StableHLO_jll.jl/releases/download/StableHLO-v0.14.6+0/StableHLO.v0.14.6.aarch64-linux-musl-cxx03-llvm_version+17.tar.gz"
+[[StableHLO]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b64af5276cdec76fa0395d62b19476f8c9b91a88"
+lazy = true
+libc = "musl"
+llvm_version = "17"
+os = "linux"
+
+    [[StableHLO.download]]
+    sha256 = "5f144c6320a291cceac4b588f98b76d4bae2f7361d85724bfe19157d732b5d95"
+    url = "https://github.com/JuliaBinaryWrappers/StableHLO_jll.jl/releases/download/StableHLO-v0.14.6+0/StableHLO.v0.14.6.aarch64-linux-musl-cxx11-llvm_version+17.tar.gz"
+[[StableHLO]]
+arch = "x86_64"
+git-tree-sha1 = "4706b8131fff6533a756246ee719c0b3683811a7"
+lazy = true
+llvm_version = "17"
+os = "macos"
+
+    [[StableHLO.download]]
+    sha256 = "6b60f14989e07bc69becbd787327fa4364d914d4f55b8d68a3b892dec80bcefe"
+    url = "https://github.com/JuliaBinaryWrappers/StableHLO_jll.jl/releases/download/StableHLO-v0.14.6+0/StableHLO.v0.14.6.x86_64-apple-darwin-llvm_version+17.tar.gz"
+[[StableHLO]]
+arch = "aarch64"
+git-tree-sha1 = "73ed75588dfce1b22a4e5242275fed8cd73d77b7"
+lazy = true
+llvm_version = "17"
+os = "macos"
+
+    [[StableHLO.download]]
+    sha256 = "257d6343d643a435a15b2067d0428309e6ad512f47c8a2426a1950efa3a71bd2"
+    url = "https://github.com/JuliaBinaryWrappers/StableHLO_jll.jl/releases/download/StableHLO-v0.14.6+0/StableHLO.v0.14.6.aarch64-apple-darwin-llvm_version+17.tar.gz"
+[[StableHLO]]
+arch = "x86_64"
+git-tree-sha1 = "58966d637a57d4e9b03a3bb49f0bc0fcc07142b6"
+lazy = true
+llvm_version = "17"
+os = "freebsd"
+
+    [[StableHLO.download]]
+    sha256 = "12a6a336c293ce12b17e93eb4686f4e9a9445d592a826ff165aa731141128647"
+    url = "https://github.com/JuliaBinaryWrappers/StableHLO_jll.jl/releases/download/StableHLO-v0.14.6+0/StableHLO.v0.14.6.x86_64-unknown-freebsd-llvm_version+17.tar.gz"
